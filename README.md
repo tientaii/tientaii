@@ -5,7 +5,6 @@ Web Devoloper
 
 * 🌍  I'm based in Ha Noi, Viet Nam
 * ✉️  You can contact me at [phamtientai0311@gmail.com](mailto:phamtientai0311@gmail.com)
-* 🧠  I'm learning NodeJs
 
 ### Skills
 
